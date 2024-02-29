@@ -8,7 +8,7 @@
 
 
 
-- 🔭 Software Engineer Intern @ **Viasat**
+- 🔭 Software Engineer @ **Viasat**
 
 
 
